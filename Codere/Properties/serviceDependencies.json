@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Server=DESKTOP-0QLTR61:SQLEXPRESS;Database=master;Trusted_Connection=True;"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:CodereContext",
+      "dynamicId": null
+    }
+  }
+}
